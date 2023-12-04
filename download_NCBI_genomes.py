@@ -1,3 +1,8 @@
+'''
+INPUT: .tbl file
+'''
+
+# Python 3.11.6
 # Libraries - Packages
 import pandas as pd
 import subprocess
